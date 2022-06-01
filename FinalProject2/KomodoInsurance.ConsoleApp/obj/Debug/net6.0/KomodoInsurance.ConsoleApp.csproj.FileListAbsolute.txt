@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject2\KomodoInsurance.ConsoleApp\obj\Debug\net6.0\KomodoInsurance.ConsoleApp.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject2\KomodoInsurance.ConsoleApp\obj\Debug\net6.0\KomodoInsurance.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject2\KomodoInsurance.ConsoleApp\obj\Debug\net6.0\KomodoInsurance.ConsoleApp.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject2\KomodoInsurance.ConsoleApp\obj\Debug\net6.0\KomodoInsurance.ConsoleApp.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject2\KomodoInsurance.ConsoleApp\obj\Debug\net6.0\KomodoInsurance.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject2\KomodoInsurance.ConsoleApp\bin\Debug\net6.0\KomodoInsurance.ConsoleApp.exe
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject2\KomodoInsurance.ConsoleApp\bin\Debug\net6.0\KomodoInsurance.ConsoleApp.deps.json
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject2\KomodoInsurance.ConsoleApp\bin\Debug\net6.0\KomodoInsurance.ConsoleApp.runtimeconfig.json
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject2\KomodoInsurance.ConsoleApp\bin\Debug\net6.0\KomodoInsurance.ConsoleApp.dll
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject2\KomodoInsurance.ConsoleApp\bin\Debug\net6.0\KomodoInsurance.ConsoleApp.pdb
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject2\KomodoInsurance.ConsoleApp\obj\Debug\net6.0\KomodoInsurance.ConsoleApp.dll
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject2\KomodoInsurance.ConsoleApp\obj\Debug\net6.0\refint\KomodoInsurance.ConsoleApp.dll
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject2\KomodoInsurance.ConsoleApp\obj\Debug\net6.0\KomodoInsurance.ConsoleApp.pdb
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject2\KomodoInsurance.ConsoleApp\obj\Debug\net6.0\KomodoInsurance.ConsoleApp.genruntimeconfig.cache
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject2\KomodoInsurance.ConsoleApp\obj\Debug\net6.0\ref\KomodoInsurance.ConsoleApp.dll

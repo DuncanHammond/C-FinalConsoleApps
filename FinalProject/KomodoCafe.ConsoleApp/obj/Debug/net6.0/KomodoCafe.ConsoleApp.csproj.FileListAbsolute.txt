@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject\KomodoCafe.ConsoleApp\obj\Debug\net6.0\KomodoCafe.ConsoleApp.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject\KomodoCafe.ConsoleApp\obj\Debug\net6.0\KomodoCafe.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject\KomodoCafe.ConsoleApp\obj\Debug\net6.0\KomodoCafe.ConsoleApp.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject\KomodoCafe.ConsoleApp\obj\Debug\net6.0\KomodoCafe.ConsoleApp.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject\KomodoCafe.ConsoleApp\obj\Debug\net6.0\KomodoCafe.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject\KomodoCafe.ConsoleApp\bin\Debug\net6.0\KomodoCafe.ConsoleApp.exe
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject\KomodoCafe.ConsoleApp\bin\Debug\net6.0\KomodoCafe.ConsoleApp.deps.json
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject\KomodoCafe.ConsoleApp\bin\Debug\net6.0\KomodoCafe.ConsoleApp.runtimeconfig.json
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject\KomodoCafe.ConsoleApp\bin\Debug\net6.0\KomodoCafe.ConsoleApp.dll
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject\KomodoCafe.ConsoleApp\bin\Debug\net6.0\KomodoCafe.ConsoleApp.pdb
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject\KomodoCafe.ConsoleApp\obj\Debug\net6.0\KomodoCafe.ConsoleApp.dll
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject\KomodoCafe.ConsoleApp\obj\Debug\net6.0\refint\KomodoCafe.ConsoleApp.dll
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject\KomodoCafe.ConsoleApp\obj\Debug\net6.0\KomodoCafe.ConsoleApp.pdb
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject\KomodoCafe.ConsoleApp\obj\Debug\net6.0\KomodoCafe.ConsoleApp.genruntimeconfig.cache
+C:\ElevenFiftyProjects\codingFoundations\CSharpFoundationsOWC\Programming\FinalProject\KomodoCafe.ConsoleApp\obj\Debug\net6.0\ref\KomodoCafe.ConsoleApp.dll
