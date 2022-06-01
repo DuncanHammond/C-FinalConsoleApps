@@ -97,7 +97,7 @@ namespace KomodoInsurance.Repository
             Outings miniGolf3 = new Outings("Great Times Mini Golf September", EventCategory.Golf, 9, DateTime.Parse("9/5/2022"), 9.99);
             Outings sixFlags = new Outings("Six Flags", EventCategory.AmusementPark, 18, DateTime.Parse("6/30/2021"), 14.99);
 
-            Outings[] outingsArr = { };
+            Outings[] outingsArr = { cosmicBowling1, cosmicBowling2, cosmicBowling3, jazzFest1, jazzFest2, jazzFest3, miniGolf1, miniGolf2, miniGolf3, sixFlags};
             foreach (Outings outings in outingsArr)
             {
                 AddOutingToList(outings);
